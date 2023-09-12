@@ -1,0 +1,44 @@
+DATE: 2023-02-13 09:22:17 p.m.  Server is Up and Running
+DATE: 2023-02-13 09:22:17 p.m.  UDP Server Started at port 7878
+DATE: 2023-02-13 09:24:07 p.m. ClientID: Event Manager | RequestType:  UDP request sent listMovieAvailability  | RequestParameters:  movieId: null movieName: Avatar  | ServerResponse:  ... 
+DATE: 2023-02-13 09:24:07 p.m. ClientID: Event Manager | RequestType:  UDP reply receivedlistMovieAvailability  | RequestParameters:  movieId: null movieName: Avatar  | ServerResponse: 
+
+VERDUN Server Avatar:
+No Events of Type Avatar
+=====================================
+
+DATE: 2023-02-13 09:24:07 p.m. ClientID: Event Manager | RequestType:  UDP request sent listMovieAvailability  | RequestParameters:  movieId: null movieName: Avatar  | ServerResponse:  ... 
+DATE: 2023-02-13 09:24:07 p.m. ClientID: Event Manager | RequestType:  UDP reply receivedlistMovieAvailability  | RequestParameters:  movieId: null movieName: Avatar  | ServerResponse: 
+
+OUTREMONT Server Avatar:
+No Events of Type Avatar
+=====================================
+
+DATE: 2023-02-13 09:24:07 p.m. ClientID: Event Manager | RequestType:  RMI listMovieShowsAvailability  | RequestParameters:  movieName: Avatar  | ServerResponse: ATWATER Server Avatar:
+ Movie ID: ATWA140223
+Movie Time: Afternoon
+Movie Date: 14-02-2023
+Movie Capacity: 20 || 
+=====================================
+
+
+VERDUN Server Avatar:
+No Events of Type Avatar
+=====================================
+
+
+OUTREMONT Server Avatar:
+No Events of Type Avatar
+=====================================
+
+DATE: 2023-02-13 09:24:31 p.m. ClientID: VERC1234 | RequestType:  UDP request received bookMovie  | RequestParameters:  movieName: Avatar movieId: ATWA140223 number of tickets: 5  | ServerResponse:  ...
+DATE: 2023-02-13 09:24:31 p.m. ClientID: VERC1234 | RequestType:  RMI bookMovieTicket  | RequestParameters:  movieId: ATWA140223 movieName: Avatar  | ServerResponse: SUCCESS: Movie ATWA140223 Booked Successfully For 5 Tickets
+DATE: 2023-02-13 09:24:31 p.m. ClientID: VERC1234 | RequestType:  UDP reply sent bookMovie  | RequestParameters:  movieId: ATWA140223 movieName: Avatar  | ServerResponse: SUCCESS: Movie ATWA140223 Booked Successfully For 5 Tickets;
+DATE: 2023-02-23 02:49:34 p.m.  Server is Up and Running
+DATE: 2023-02-23 02:49:34 p.m.  UDP Server Started at port 7878
+DATE: 2023-02-23 02:50:51 p.m. ClientID: ATWC1234 | RequestType:  RMI bookMovieTicket  | RequestParameters:  movieId: ATWM240223 movieName: Avatar  | ServerResponse: SUCCESS: Movie ATWM240223 Booked Successfully For 20 Tickets
+DATE: 2023-02-23 02:50:56 p.m. ClientID: ATWC1234 | RequestType:  RMI getBookingSchedule  | RequestParameters: null | ServerResponse: Avatar:
+ATWM240223	20
+=====================================
+
+DATE: 2023-02-23 02:51:20 p.m. ClientID: ATWC1234 | RequestType:  RMI bookMovieTicket  | RequestParameters:  movieId: ATWA240223 movieName: Avatar  | ServerResponse: SUCCESS: Movie ATWA240223 Booked Successfully For 0 Tickets

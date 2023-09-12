@@ -1,0 +1,11 @@
+DATE: 2023-02-13 09:22:17 p.m.  Server is Up and Running
+DATE: 2023-02-13 09:22:17 p.m.  UDP Server Started at port 9090
+DATE: 2023-02-13 09:24:07 p.m. ClientID: Event Manager | RequestType:  UDP request received listMovieAvailability  | RequestParameters:  movieName: Avatar movieId: null number of tickets: -2147483648  | ServerResponse:  ...
+DATE: 2023-02-13 09:24:07 p.m. ClientID: Event Manager | RequestType:  UDP reply sent listMovieAvailability  | RequestParameters:  movieId: null movieName: Avatar  | ServerResponse: 
+
+OUTREMONT Server Avatar:
+No Events of Type Avatar
+=====================================
+;
+DATE: 2023-02-23 02:49:34 p.m.  Server is Up and Running
+DATE: 2023-02-23 02:49:34 p.m.  UDP Server Started at port 9090

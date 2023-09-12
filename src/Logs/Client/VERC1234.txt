@@ -1,0 +1,9 @@
+DATE: 2023-02-13 09:24:17 p.m. login attempt
+DATE: 2023-02-13 09:24:17 p.m.  Customer Login successful
+DATE: 2023-02-13 09:24:31 p.m.  attempting to book Movie
+DATE: 2023-02-13 09:24:31 p.m. Client Action:  bookMovie | RequestParameters:  movieID: ATWA140223 movieName: Avatar Number of tickets: 5  | Server Response: SUCCESS: Movie ATWA140223 Booked Successfully For 5 Tickets
+DATE: 2023-02-13 09:24:36 p.m.  attempting to getMovieSchedule
+DATE: 2023-02-13 09:24:36 p.m. Client Action:  bookMovie | RequestParameters:  null  | Server Response: Avatar:
+ATWA140223	5
+=====================================
+

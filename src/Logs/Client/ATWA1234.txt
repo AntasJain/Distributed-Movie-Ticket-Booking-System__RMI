@@ -1,0 +1,36 @@
+DATE: 2023-02-13 09:23:39 p.m. login attempt
+DATE: 2023-02-13 09:23:39 p.m.  Admin Login successful
+DATE: 2023-02-13 09:24:00 p.m.  attempting to addMovie
+DATE: 2023-02-13 09:24:00 p.m. Client Action:  addMovie | RequestParameters:  movieId: ATWA140223 movieName: Avatar movieCapacity: 20  | Server Response: SUCCESS: Movie ATWA140223 added successfully.
+DATE: 2023-02-13 09:24:07 p.m.  attempting to listMovieAvailability
+DATE: 2023-02-13 09:24:07 p.m. Client Action:  listMovieAvailability | RequestParameters:  movieName: Avatar  | Server Response: ATWATER Server Avatar:
+ Movie ID: ATWA140223
+Movie Time: Afternoon
+Movie Date: 14-02-2023
+Movie Capacity: 20 || 
+=====================================
+
+
+VERDUN Server Avatar:
+No Events of Type Avatar
+=====================================
+
+
+OUTREMONT Server Avatar:
+No Events of Type Avatar
+=====================================
+
+DATE: 2023-02-13 09:24:14 p.m. attempting to Logout
+DATE: 2023-02-23 02:49:47 p.m. login attempt
+DATE: 2023-02-23 02:49:47 p.m.  Admin Login successful
+DATE: 2023-02-23 02:50:00 p.m.  attempting to addMovie
+DATE: 2023-02-23 02:50:00 p.m. Client Action:  addMovie | RequestParameters:  movieId: ATWM240223 movieName: Avatar movieCapacity: 200  | Server Response: SUCCESS: Movie ATWM240223 added successfully.
+DATE: 2023-02-23 02:50:13 p.m.  attempting to addMovie
+DATE: 2023-02-23 02:50:13 p.m. Client Action:  addMovie | RequestParameters:  movieId: ATWA240223 movieName: Avatar movieCapacity: 250  | Server Response: SUCCESS: Movie ATWA240223 added successfully.
+DATE: 2023-02-23 02:50:27 p.m.  attempting to addMovie
+DATE: 2023-02-23 02:50:27 p.m. Client Action:  addMovie | RequestParameters:  movieId: ATWE240223 movieName: Avatar movieCapacity: 250  | Server Response: SUCCESS: Movie ATWE240223 added successfully.
+DATE: 2023-02-23 02:50:30 p.m. attempting to Logout
+DATE: 2023-02-23 02:51:06 p.m. login attempt
+DATE: 2023-02-23 02:51:06 p.m.  Admin Login successful
+DATE: 2023-02-23 02:51:20 p.m.  attempting to removeMovie
+DATE: 2023-02-23 02:51:20 p.m. Client Action:  removeMovie | RequestParameters:  movieId: ATWM240223 movieName: Avatar  | Server Response: SUCCESS: Movie Slot Removed
